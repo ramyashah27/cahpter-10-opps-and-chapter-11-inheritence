@@ -7,8 +7,7 @@ class RailwayForm:
     def __init__(self):
         print('ramya shah is a good boy')
 
-harrysApplication = RailwayForm()
-harrysApplication.name = "ramya"
-harrysApplication.train = "Rajdhani Express"
-harrysApplication.ticket = " Ce2 "
-harrysApplication.printData()
+RamyaApplication.name = "ramya"
+RamyaApplication.train = "Rajdhani Express"
+RamyaApplication.ticket = " Ce2 "
+RamyaApplication.printData()
