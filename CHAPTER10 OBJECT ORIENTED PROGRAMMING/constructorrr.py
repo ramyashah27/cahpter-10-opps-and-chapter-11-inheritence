@@ -5,7 +5,7 @@ class RailwayForm:
         print(f"Train is {self.train}")
         print(f"ticket is{self.ticket}")
     def __init__(self):
-        print('ramya shah is a good boy')
+        print('ramya shah is a good boy and a chess player')
 
 RamyaApplication.name = "ramya"
 RamyaApplication.train = "Rajdhani Express"
